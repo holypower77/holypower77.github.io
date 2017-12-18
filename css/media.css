@@ -1,0 +1,136 @@
+@media screen and (max-width: 480px) {
+	section {
+		width: 90%;
+	}
+	.title {
+		font-size: 30px;
+		padding-top: 30%;
+		line-height: 25px;
+	}
+	.main {
+		padding-top: 30%;
+	}
+	input[type="text"] {
+		font-size: 16px;
+		padding: 20px 5px;
+		margin-bottom: 10%;
+	}
+	input[type="submit"] {
+		font-size: 16px;
+		padding: 10px 25px;
+		margin-bottom: 15%;
+	}
+	.info,
+	.info a,
+	.invalid {
+		font-size: 16px;
+	}
+	.comm {
+		font-size: 13px;
+	}
+	.instruction {
+		font-size: 12px;
+	}
+}
+@media screen and (max-width: 767px) and (min-width: 481px){
+	section {
+		width: 90%;
+	}
+	.title {
+		font-size: 50px;
+		padding-top: 20%;
+		line-height: 35px;
+	}
+	.main {
+		padding-top: 25%;
+	}
+	input[type="text"] {
+		font-size: 25px;
+		padding: 20px 5px;
+		margin-bottom: 10%;
+	}
+	input[type="submit"] {
+		font-size: 25px;
+		padding: 10px 25px;
+		margin-bottom: 15%;
+	}
+	.info,
+	.info a,
+	.invalid {
+		font-size: 30px;
+	}
+	.comm {
+		font-size: 16px;
+	}
+	.instruction {
+		font-size: 16px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	section {
+		width: 80%;
+	}
+	.title {
+		font-size: 55px;
+		padding-top: 15%;
+		line-height: 35px;
+	}
+	.main {
+		padding-top: 40%;
+	}
+	input[type="text"] {
+		font-size: 25px;
+		padding: 20px 5px;
+		margin-bottom: 10%;
+	}
+	input[type="submit"] {
+		font-size: 25px;
+		padding: 10px 25px;
+		margin-bottom: 8%;
+	}
+	.info,
+	.info a,
+	.invalid {
+		font-size: 36px;
+	}
+	.comm {
+		font-size: 20px;
+	}
+	.instruction {
+		font-size: 20px;
+	}
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	section {
+		width: 80%;
+	}
+	.title {
+		font-size: 55px;
+		padding-top: 15%;
+		line-height: 35px;
+	}
+	.main {
+		padding-top: 35%;
+	}
+	input[type="text"] {
+		font-size: 30px;
+		padding: 20px 5px;
+		margin-bottom: 10%;
+	}
+	input[type="submit"] {
+		font-size: 30px;
+		padding: 10px 25px;
+		margin-bottom: 15%;
+	}
+	.info,
+	.info a,
+	.invalid {
+		font-size: 45px;
+	}
+	.comm {
+		font-size: 25px;
+	}
+	.instruction {
+		font-size: 25px;
+	}
+}
